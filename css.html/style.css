@@ -1,0 +1,46 @@
+
+
+
+
+body{ text-align: center;} 
+h2{  color: rgb(8, 8, 8);
+     background-color: rgba(137, 182, 79, 0.5);
+     text-align:center;
+      font-size:x-larges;
+      margin-left: 1cm;
+      margin-right: 1cm;
+      
+     }
+
+div:hover{
+    background-color: rgb(179, 139, 81);
+}
+body{
+    text-align: center;
+    border-right: 1px solid #000000;
+    border-left: 1px solid #000000;
+    border-top: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+    border-radius: 2cm;
+    border-style: outset;
+    margin-left: 12cm;
+   margin-right: 12cm;
+letter-spacing: 0.1cm;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
